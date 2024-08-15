@@ -1,0 +1,19 @@
+{
+  "name": "entity-secret",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@circle-fin/developer-controlled-wallets": "^4.2.1",
+    "@circle-fin/smart-contract-platform": "^4.2.1",
+    "@circle-fin/user-controlled-wallets": "^4.2.1",
+    "node-fetch": "^2.7.0",
+    "node-forge": "^1.3.1"
+  }
+}
